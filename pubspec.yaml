@@ -1,10 +1,10 @@
 name: flutter_signal_strength
-description: "Retrive cellular and wifi signal strength"
+description: "Retrieve cellular and wifi signal strength"
 version: 0.0.1
 homepage: https://github.com/odd-io/flutter_signal_strength
 
 environment:
-  sdk: ^3.7.0-47.0.dev
+  sdk: ^3.6.1
   flutter: ">=3.3.0"
 
 dependencies:
